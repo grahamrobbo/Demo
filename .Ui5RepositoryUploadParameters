@@ -1,7 +1,7 @@
 SAPUI5ApplicationName=ZDEMO
-SAPUI5ApplicationPackage=$DEMO
-SAPUI5ApplicationDescription=Mastering SAP OnAir Demo
-WorkbenchRequest=MADK918778
+SAPUI5ApplicationPackage=ZDEMO
+SAPUI5ApplicationDescription=Mastering SAP On Air Demo
+WorkbenchRequest=MADK918798
 ExternalCodePage=Cp1252
 AcceptUnixStyleEol=True
 DeltaMode=True
