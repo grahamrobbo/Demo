@@ -4,4 +4,4 @@ SAPUI5ApplicationDescription=Mastering SAP On Air Demo
 WorkbenchRequest=MADK918798
 ExternalCodePage=Cp1252
 AcceptUnixStyleEol=True
-DeltaMode=True
+DeltaMode=False
