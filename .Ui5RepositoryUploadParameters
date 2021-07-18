@@ -1,0 +1,7 @@
+SAPUI5ApplicationName=ZDEMO
+SAPUI5ApplicationPackage=$DEMO
+SAPUI5ApplicationDescription=Mastering SAP OnAir Demo
+WorkbenchRequest=MADK918778
+ExternalCodePage=Cp1252
+AcceptUnixStyleEol=True
+DeltaMode=True

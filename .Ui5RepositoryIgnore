@@ -1,0 +1,15 @@
+.eslintrc.js
+.gitignore
+.gitmodules
+.vscode
+.jshintrc
+.jshintignore
+.Ui5RepositoryIgnore
+.Ui5RepositoryTextFiles
+.Ui5RepositoryUploadParameters
+gulpfile.js
+LICENSE
+package-lock.json
+package.json
+README.md
+*.OLD

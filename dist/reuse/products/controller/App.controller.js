@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/sample/RoutingNestedComponent/base/BaseController"],(function(e){return e.extend("sap.ui.core.sample.RoutingNestedComponent.reuse.products.controller.App",{})}));
