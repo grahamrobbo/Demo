@@ -1,2 +1,2 @@
 # Demo
-Demo for Mastering SAP on Air
+Demo UI5 App for Mastering SAP on Air
