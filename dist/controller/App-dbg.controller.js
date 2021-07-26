@@ -20,11 +20,11 @@ sap.ui.define(
 
 					var oTitlesModel = new JSONModel()
 					this.getView().setModel(oTitlesModel, "titleModel")
-					this.getOwnerComponent()
-						.getRouter()
-						.attachTitleChanged(function (oEvent) {
-							oTitlesModel.setData(oEvent.getParameters())
-						})
+					// this.getOwnerComponent()
+					// 	.getRouter()
+					// 	.attachTitleChanged(function (oEvent) {
+					// 		oTitlesModel.setData(oEvent.getParameters())
+					// 	})
 				},
 
 				_onRouteMatched: function (oEvent) {
