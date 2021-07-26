@@ -23,7 +23,7 @@ sap.ui.define(
 					this.getOwnerComponent()
 						.getRouter()
 						.attachTitleChanged(function (oEvent) {
-							oTitlesModel.setData(oEvent.getParameters())
+							//oTitlesModel.setData(oEvent.getParameters())
 						})
 				},
 
