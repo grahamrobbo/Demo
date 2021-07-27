@@ -1,5 +1,5 @@
 {
-	"_version": "1.21.1-4",
+	"_version": "1.21.1-5",
 	"sap.app": {
 		"id": "sap.ui.core.sample.RoutingNestedComponent",
 		"type": "application",
